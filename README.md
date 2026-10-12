@@ -80,8 +80,8 @@ _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será
 
 ## Contacto:
 
-- **Correo:**
-- **Discord:** [La Legión del Mal](https://discord.gg/legiondelmal)
-- **Telegram:** [@LegionDelMal](https://t.me/legiondelmal)
-- **Twitter:** [@LegionDelMal](https://twitter.com/LegionDelMal)
-- **Sitio web:** [www.legiondelmal.com](https://www.legiondelmal.com)
+- *Correo:*
+- *Discord:* [La Legión del Mal](https://discord.gg/LegionDelMal)
+- *Telegram:* [@LegionDelMal](https://t.me/legiondelmal)
+- *Twitter:* [@LegionDelMal](https://twitter.com/LegionDelMal)
+- *Sitio web:* [www.legiondelmal.com](https://www.legiondelmal.com)
