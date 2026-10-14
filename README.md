@@ -9,8 +9,9 @@
 ![Licencia](https://img.shields.io/github/license/tatianagiraldo09/legion-del-mal?cacheSeconds=60)
 
 
-# 🦹‍♂️ La Legión del Mal 
+# 🦹‍♂️ La Legión del Mal - Desde local
 
+### Es una ficha del ADSO aprendiendo Git y Github
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
